@@ -38,7 +38,7 @@ This is the **Orchestration Premium** business-model pattern: hidden multi-model
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/verifai.git
+git clone https://github.com/JOJO11111111/Verif-AI.git
 cd verifai
 ```
 
@@ -91,13 +91,10 @@ verifai/
 
 | Name | Andrew ID |
 |------|-----------|
-| Tiffany | tiffany_andrew_id |
-| Teammate 2 | andrew_id |
-| Teammate 3 | andrew_id |
-| Teammate 4 | andrew_id |
+| Vy Tran | vtran |
+| Samuel Green | slgreen |
+| Gabriel Wimmer | gwimmer |
+| Tiffany | tbao2 |
 
 ---
 
-## License
-
-MIT — for educational use as part of the CMU 14-789 course project.
