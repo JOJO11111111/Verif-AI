@@ -10,10 +10,10 @@ st.set_page_config(
 )
 
 # --- Header ---
-st.title("🔍 VerifAI")
+st.title("Welcome to VerifAI")
 st.markdown(
-    "**AI-powered fact-checking for financial claims.** "
-    "Built for financial advisors and individual investors to verify suspicious investment claims and protect against fraud."
+    "**An AI-charged fact-checking tool.** "
+    "Built for elders or people on their behalf to verify suspicious claims and protect against fraud."
 )
 
 st.markdown("---")
@@ -27,7 +27,7 @@ with st.sidebar:
 
         **1. Decomposition** — Claude breaks your claim into atomic, verifiable sub-assertions.
 
-        **2. Evidence Retrieval** — GPT-4o-mini + Tavily search gather evidence from authoritative sources (SEC, FINRA, registries).
+        **2. Evidence Retrieval** — GPT-4o-mini + Tavily search gather evidence from authoritative sources.
 
         **3. Synthesis** — Claude weighs the evidence and produces a final verdict with confidence scores and citations.
 
@@ -38,14 +38,13 @@ with st.sidebar:
         """
     )
     st.markdown("---")
-    st.caption("CMU 14-789 · AI in Business Modeling")
 
 # --- Input ---
 st.subheader("Submit a claim to verify")
 
 example_claims = {
     "— Choose an example —": "",
-    "Crypto fraud (senior persona)": "My neighbor told me about a crypto fund called Doc Rock Company that pays 15% monthly dividends, guaranteed. Is this legit?",
+    "Crypto fraud (senior persona)": "On facebook there is a crypto fund called Doc Rock Company says they pay 15% monthly dividends, guaranteed. Is this legit?",
     "Facebook investment ad": "I saw on Facebook that SafeHaven Capital guarantees 20% annual returns with zero risk.",
     "Cold call (advisor persona)": "My client got a call from someone at 'Morgan Stanley Senior Advisors' offering a special bond program for retirees with 9% guaranteed returns. Is this real?",
 }
