@@ -2,6 +2,8 @@
 
 **AI-powered fact-checking for financial claims.**
 Built for elders or people on their behalf to verify suspicious claims and protect against fraud. (Ponzi schemes, fake funds, social-media investment scams, elder financial exploitation).
+
+
 CMU 14-789 · AI in Business Modeling · Course Project MVP
 
 ---
