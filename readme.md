@@ -7,6 +7,12 @@ Built for elders or people on their behalf to verify suspicious claims and prote
 CMU 14-789 · AI in Business Modeling · Course Project MVP
 
 ---
+### Demos
+
+- [Local MVP](https://drive.google.com/file/d/1f3N0GdbikkEJsci6ObHdYUHI-iq6DZl4/view?usp=sharing)
+
+- [GKE MVP](https://drive.google.com/file/d/1x24Unkl-uVthOa5wBj7_iFQ_DpJbok-U/view?usp=sharing)
+
 
 ## What it does
 
