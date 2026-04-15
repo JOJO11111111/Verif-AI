@@ -1,20 +1,18 @@
 # VerifAI 🔍
 
 **AI-powered fact-checking for financial claims.**
-
-Built for financial advisors and individual investors to verify suspicious investment claims and protect against fraud (Ponzi schemes, fake funds, social-media investment scams, elder financial exploitation).
-
+Built for elders or people on their behalf to verify suspicious claims and protect against fraud. (Ponzi schemes, fake funds, social-media investment scams, elder financial exploitation).
 CMU 14-789 · AI in Business Modeling · Course Project MVP
 
 ---
 
 ## What it does
 
-Paste a financial claim (e.g., *"My neighbor told me about a crypto fund called Doc Rock Company that pays 15% monthly dividends, guaranteed"*) and VerifAI returns a structured verdict:
+Paste a  claim (e.g., *" On facebook there is a crypto fund called Doc Rock Company that pays 15% monthly dividends, guaranteed"*) and VerifAI returns a structured verdict:
 
 - Overall trust score (0–100)
 - Per-sub-claim verdict with confidence level
-- Source citations (SEC, FINRA, official registries, regulator alerts)
+- Source citations (such as SEC, FINRA, official registries, regulator alerts)
 - Red flags detected
 - Plain-language reasoning summary
 - Concrete recommendation
