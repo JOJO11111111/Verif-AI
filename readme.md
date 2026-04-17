@@ -100,7 +100,7 @@ verifai/
 | Vy Tran | vtran |
 | Samuel Green | slgreen |
 | Gabriel Wimmer | gwimmer |
-| Tiffany | tbao2 |
+| Tiffany Bao| tbao2 |
 
 ---
 
